@@ -2,7 +2,7 @@
 
 Addons for C.O.F.F.E.E's M.R.E (Mission Ready Environment)
 
-[Contribution](https://github.com/coffeearma/TMF_M.R.E-settings/master/CONTRIBUTING.md)
+[Contribution](https://github.com/coffeearma/TMF_M.R.E-settings/blob/master/CONTRIBUTING.md)
 
 Includes settings for:
 - ACE3
