@@ -1,7 +1,7 @@
 # TMF_M.R.E settings
 Addons for C.O.F.F.E.E's M.R.E (Mission Ready Environment)
 
-![M.R.E. Logo](https://puu.sh/y7Bgd.png)
+![M.R.E. Logo](https://puu.sh/y7BhY.png)
 
 
 * [Contribution](https://github.com/coffeearma/TMF_M.R.E-settings/blob/master/CONTRIBUTING.md)
