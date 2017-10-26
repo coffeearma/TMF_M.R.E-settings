@@ -11,7 +11,7 @@ class CfgPatches {
     units[] = {};
     weapons[] = {};
     requiredVersion = REQUIRED_VERSION;
-    requiredAddons[] = {"main", "ace_map", "ace_zeus", "ace_overheating", "ace_advanced_fatigue", "ace_medical"};
+    requiredAddons[] = {"main", "ace_map", "ace_zeus", "ace_overheating", "ace_advanced_fatigue", "ace_medical", "ace_cookoff", "ace_weather"};
     VERSION_CONFIG;
   };
 };
