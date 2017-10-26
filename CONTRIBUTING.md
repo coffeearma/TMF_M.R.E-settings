@@ -8,8 +8,6 @@ The following is a set of guidelines for contributing to M.R.E and its settings,
 
 [Code of Conduct](#code-of-conduct)
 
-[I don't want to read this whole thing, I just have a question!!!](#i-dont-want-to-read-this-whole-thing-i-just-have-a-question)
-
 [What should I know before I get started?](#what-should-i-know-before-i-get-started)
   * [What is M.R.E?](#whatis)
   * [What not to change](#whatnot)
@@ -20,9 +18,7 @@ The following is a set of guidelines for contributing to M.R.E and its settings,
   * [Your First Code Contribution](#your-first-code-contribution)
   * [Pull Requests](#pull-requests)
 
-
-[Additional Notes](#additional-notes)
-  * [Issue and Pull Request Labels](#issue-and-pull-request-labels)
+[Issue and Pull Request Labels](#issue-and-pull-request-labels)
 
 ## Code of Conduct
 
